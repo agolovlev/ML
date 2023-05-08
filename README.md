@@ -1,0 +1,3 @@
+# ML
+lessons_OTUS_ML
+Уроки в OTUS пока идет тяжело... 
