@@ -1,0 +1,1 @@
+print([chr(65+i)*(i+1) for i in range(int(input()))])
